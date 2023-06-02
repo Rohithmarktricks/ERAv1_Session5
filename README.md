@@ -11,7 +11,7 @@
 5. Attempt Assignment 5. 
 
 ## Approach/Solution
-Please refer to ![S5.ipynb](S5.ipynb) for the solution that uses the helper functions from ```utils.py``` and ```model.py```
+Please refer to [S5.ipynb](S5.ipynb) for the solution that uses the helper functions from ```utils.py``` and ```model.py```
 
 ### Helper Files
 
