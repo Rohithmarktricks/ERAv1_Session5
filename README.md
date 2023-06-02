@@ -15,7 +15,7 @@ Please refer to ![S5.ipynb](S5.ipynb) for the solution that uses the helper func
 
 ### Helper Files
 
-### S[utils.py](utils.py)
+### [utils.py](utils.py)
 The ```utils.py``` module contains the following functions and classes.
 
 1. ```get_device()```: This function returns the device (CPU/GPU) required for training/inference
