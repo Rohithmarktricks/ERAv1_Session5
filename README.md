@@ -15,7 +15,7 @@ Please refer to ![S5.ipynb](S5.ipynb) for the solution that uses the helper func
 
 ### Helper Files
 
-### ![utils.py](utils.py)
+### S[utils.py](utils.py)
 The ```utils.py``` module contains the following functions and classes.
 
 1. ```get_device()```: This function returns the device (CPU/GPU) required for training/inference
@@ -31,7 +31,7 @@ The ```utils.py``` module contains the following functions and classes.
         - ```get_stats```: Method that retuns all the traced metrics ```train_losses, train_acc, test_losses, test_acc```
         - ```plot_metrics```: Method to plot all the train/test traced metrics. Retuns a plot.
 
-### ![model.py](model.py)
+### [model.py](model.py)
 The ```model.py``` module contains the source code for Neural network (along with loss, optimizer and scheduler)
 1. ```Net```: A Pytorch NNet of type nn.Module that includes ```nn.Conv2d, nn.Linear, F.relu, F.max_pool2d``` and ```log_softmax```
 2. ```get_loss```: A method that returns the ```nn.CrossEntropyLoss()``` object.
